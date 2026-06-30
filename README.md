@@ -23,11 +23,11 @@ Un générateur de fonctions analogique compact, construit autour de l'amplifica
 
 ## Photos de résultats
 
-> Vous pouvez les trouver aussi dans la dossier *photos-of-final-result*.
+> Vous pouvez les trouver aussi dans la dossier *Photos-of-final-result*.
 
-| Schémas  | PCB |
+| Schémas | PCB |
 | :-----------: | :-----------: |
-| ![Schémas](...)  | ![PCB](...)  |
+| <img src="Photos-of-final-result/Schemas.png" width="500px"> | <img src="Photos-of-final-result/PCB.jpg" width="500px"> |
 
 ---
 
